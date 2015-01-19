@@ -3,3 +3,5 @@
 
 # push_cock -> vagina
 	print = "splash"
+	
+#    drink !"#"#!#$$% makes you happy!
