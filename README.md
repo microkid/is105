@@ -6,3 +6,5 @@
 	
 	
 	test igjen 10012313123
+	
+	Jeg endrer litt//Ola
