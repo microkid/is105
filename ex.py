@@ -1,2 +1,2 @@
-Hei jeg heter Stefan!
+Hei jeg heter Stimen!
 Bla bla bla bla
